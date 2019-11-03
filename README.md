@@ -1,3 +1,5 @@
 # Shopping List App Challenge
 
-This repo contains starter files for the *Shopping List App* challenge.
+This is the Thinkful Shopping List App Challenge 
+
+Project can be accessed here: https://projects-training.github.io/shopping-list/
